@@ -341,7 +341,6 @@ header {
 
 .last-footer {
     background-color: black;
-    margin-top: 80px;
 
 }
 
@@ -349,9 +348,8 @@ header {
     display: grid;
     justify-content: center;
     align-items: center;
-
-    padding-top: 100px;
-    text-align: center;
+    margin-left: 280px;
+    pad
 
 }
 
@@ -362,7 +360,6 @@ header {
     font-weight: 800;
     line-height: normal;
     color: #E55473;
-
 
 }
 
@@ -383,7 +380,6 @@ header {
     font-style: normal;
     font-weight: 200;
     line-height: normal;
-    margin-top: 5px;
 }
 
 .ender-p {

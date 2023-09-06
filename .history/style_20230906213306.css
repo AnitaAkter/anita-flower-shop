@@ -341,18 +341,8 @@ header {
 
 .last-footer {
     background-color: black;
-    margin-top: 80px;
-
-}
-
-.end-info {
-    display: grid;
-    justify-content: center;
-    align-items: center;
-
-    padding-top: 100px;
-    text-align: center;
-
+    height: 449px;
+    margin-top: 60px;
 }
 
 .text-primar {
@@ -362,8 +352,7 @@ header {
     font-weight: 800;
     line-height: normal;
     color: #E55473;
-
-
+    margin-top: 260px;
 }
 
 .text-scnd {
@@ -374,28 +363,4 @@ header {
     font-style: normal;
     font-weight: 800;
     line-height: normal;
-}
-
-.text-scn {
-    color: #FFF;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 18px;
-    font-style: normal;
-    font-weight: 200;
-    line-height: normal;
-    margin-top: 5px;
-}
-
-.ender-p {
-    color: rgba(102, 99, 99, 0.6);
-    font-family: Lato;
-    font-size: 15px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 30px;
-    width: 634px;
-    height: 120px;
-    gap: 32px;
-    margin-top: 30px;
-
 }
