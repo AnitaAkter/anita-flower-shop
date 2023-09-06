@@ -1,0 +1,43 @@
+body {
+    font-family: 'Lato', sans-serif;
+    font-weight: 900;
+}
+
+header {
+    display: flex;
+    background-color: hsl(342, 34%, 89%);
+    width: 1500px;
+    height: 550px;
+}
+
+.header-intro {
+    margin-top: 80px;
+    margin-left: 50px;
+    width: 708px;
+    height: 506px;
+
+}
+
+.header-btn {
+    background-color: #E55473;
+    border-radius: 5px;
+    border: none;
+    width: 100px;
+    height: 30px;
+    color: white;
+    font-size: 15px;
+
+}
+
+.header-pic {
+    width: 635px;
+    height: 800px;
+    margin-bottom: 0%;
+    margin-right: auto;
+
+}
+
+
+.header-pic img{
+    
+}

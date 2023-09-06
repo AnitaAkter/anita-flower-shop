@@ -1,0 +1,269 @@
+/* Header -section start */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+    font-weight: 900;
+    width: 100%;
+}
+
+header {
+    display: flex;
+    background-color: hsl(342, 34%, 89%);
+    width: 100%;
+    height: 800px;
+}
+
+.header-intro {
+    margin-top: 80px;
+    margin-left: 50px;
+    width: 708px;
+    height: 506px;
+
+
+}
+
+.header-intro h1 {
+    color: #272727;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-family: Lato;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    width: 708px;
+    height: 310px;
+
+
+}
+
+.header-p {
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    width: 634px;
+    height: 120px;
+    gap: 32px;
+
+
+
+    /* 166.667% */
+}
+
+.header-btn {
+    background-color: #E55473;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    font-size: 15px;
+    display: inline-flex;
+    padding: 20px 43px;
+    align-items: flex-start;
+    gap: 10px;
+
+}
+
+.header-pic {
+    width: 635px;
+    height: 800px;
+    margin-bottom: 0%;
+    margin-right: auto;
+
+}
+
+
+.header-pic img {
+    width: 635px;
+    height: 800px;
+    margin-bottom: 0%;
+}
+
+/* Header -section end */
+
+
+
+/* flowers info styles */
+.flowers-info {
+    margin-top: 120px;
+}
+
+.flowers-info h3 {
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.flowers-info p {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    /* 166.667% */
+}
+
+
+.flowers-add {
+    margin-top: 80px;
+    align-items: center;
+    margin-bottom: 200px;
+    margin-left: 180px;
+    margin-right: 140px;
+    width: 80%;
+    height: 480px;
+    gap: 54px;
+
+
+}
+
+.flowers-img {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    width: 464px;
+    height: 538px;
+
+
+
+}
+
+.flowers-img img {
+
+    background-image: url('/images/Rectangle\ 3\ \(1\).png');
+
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(139, 24, 81, 0.15);
+    height: 408px;
+    width: 464px;
+}
+
+.flowers-img p {
+    color: rgba(0, 0, 0, 0.951);
+
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 35px;
+    margin-left: 133px;
+}
+
+.flowers {
+
+    width: 310px;
+    height: 428px;
+
+
+}
+
+
+
+
+
+
+/* delivery section start */
+.delivery {
+    margin-top: 100px;
+    margin-left: 180px;
+    margin-right: 140px;
+    background-color: #efe1e4;
+    display: flex;
+    width: 80%;
+    height: 320px;
+    border-radius: 5px;
+    padding: 30px;
+}
+
+.delivery-img p {
+    color: rgba(39, 39, 39, 0.80);
+
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 35px;
+    margin-left: -50px;
+
+
+}
+
+.delivery-img {
+    display: inline-flex;
+    margin-top: 80px;
+    margin-left: 120px;
+    gap: 100px;
+    height: 30px;
+    align-content: center;
+    position: absolute;
+
+}
+
+.d-img img {
+    display: grid;
+    justify-content: center;
+    margin-left: 55px;
+
+}
+
+/* delivery section end */
+
+.insta-img {
+    display: flex;
+    margin-top: 40px;
+    gap: 25px;
+    margin-left: 180px;
+    margin-right: 140px;
+    height: 320px;
+    width: 80%;
+}
+
+.insta-img img {
+    width: 284px;
+    height: 396px;
+    border-radius: 5px;
+}
+
+
+.footer-column {
+    background-image: url('images/Rectangle\ 9.png');
+    margin-top: 150px;
+    width: 80%;
+    height: 320px;
+    border-radius: 3px;
+    margin-left: 180px;
+    margin-right: 140px;
+}
+
+
+
+.footer-title h2,
+p {
+    margin-left: 500px;
+    margin-top: 50px;
+    align-content: center;
+}
+
+.form {
+    display: flex;
+    margin-left: 287px;
+    gap: 50px;
+    margin-top: 120px;
+}
+
+.input-form {
+    width: 550px;
+}

@@ -1,0 +1,31 @@
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+header {
+    display: flex;
+    background-color: hsl(346, 42%, 78%);
+    width: 1500px;
+    height: 550px;
+}
+
+.header-intro {
+    width: 708px;
+    height: 506px;
+}
+
+.header-btn {
+    background-color: #E55473;
+    border-radius: 5px;
+    border: none;
+    width: 100px;
+    height: 30px;
+    text-decoration: azure;
+
+}
+
+.header-pic {
+    width: 635px;
+    height: 800px;
+    
+}

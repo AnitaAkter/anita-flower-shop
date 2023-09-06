@@ -1,0 +1,11 @@
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+header {
+    display: flex;
+}
+
+.header-btn {
+    color: coral;
+}
